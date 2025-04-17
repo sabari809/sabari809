@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabari809&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
