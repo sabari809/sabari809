@@ -3,9 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2023/11/05/02/07/ai-generated-8366100_1280.jpg" width="300" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="300" />
 </p>
-
 
 
 
