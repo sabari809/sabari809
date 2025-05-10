@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="300" />
+  <img src="[https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif](https://i.postimg.cc/L8MTkCdR/dev-image.png)" width="300" />
 </p>
 
 
