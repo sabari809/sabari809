@@ -55,7 +55,7 @@
 
 | 💻 Laptop              | 🧠 Processor     | 🎮 Graphics         | 🔋 RAM   |
 |------------------------|------------------|----------------------|----------|
-| ASUS TUF Gaming F17    | Intel i5 / i7    | NVIDIA GTX / RTX     | 16GB     |
+| ASUS TUF Gaming F17    | Intel i5         | NVIDIA GTX / RTX     | 16GB     |
 
 ---
 
